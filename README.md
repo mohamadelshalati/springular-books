@@ -59,10 +59,24 @@ This project is an E-commerce IT bookstore which uses the IT bookstore api found
   <ul> 
  <li> Create a preview of an IT Book Store </li>
  </ul>
+
+# Mohamad's Responsibilities:
+* Development was done using Visual Studio Code and IntelliJ Idea.
+* Implemented an IT books api (https://api.itbook.store/1.0/ ).
+* Get JSON data from api and provide it as observable so app components can subscribe to
+it and displayed items using Angular functionalities along with HTML.
+* Cart implementation which makes use of Behavior Subject and localstorage to keep track of
+data sent to the cart.
+* Implemented a cart counter that updates the number of items in the cart as the user adds
+items into it.
+* Implemented sending (POST, GET, DELETE, and PUT) requests to Spring Boot backend implementing Client Http module.
+* Created objects and mapped them using Spring Data JPA. 
 # Contributors
 
    [Syeda Sultana](https://github.com/sulsyeda03/)    
-   [Mohamad Elshalati](https://github.com/mohamadelshalati)    
+   [Mohamad Elshalati](https://github.com/mohamadelshalati)
    [Simon Irvin-Vitela](https://github.com/simonirvinvitela730)    
-   [Christy Catlin](https://github.com/CCatlin28) 
+   [Christy Catlin](https://github.com/CCatlin28)
+
+
 
